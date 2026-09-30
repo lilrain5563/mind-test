@@ -1,0 +1,7 @@
+total questions: 80
+ids unique: True | min: 0 max: 79
+per dim: {'emotion': 14, 'sleep': 13, 'stress': 14, 'social': 13, 'self': 13, 'life': 13}
+tier 10 quota sum=10 bank enough=True
+tier 20 quota sum=20 bank enough=True
+tier 50 quota sum=50 bank enough=True
+tier 80 quota sum=80 bank enough=True
